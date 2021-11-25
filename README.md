@@ -1,1 +1,1 @@
-#Decvault: a distributed password manager on Solana
+# Decvault: a distributed password manager on Solana
